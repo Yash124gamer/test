@@ -1,0 +1,5 @@
+{{#user}}
+Name: Yash
+Skills: HTML, CSS, JS, Next.js ,Reactjs ,PHP ,Expressjs ,JAVA ,
+Email: y325dde@gmail.com
+{{/user}}
